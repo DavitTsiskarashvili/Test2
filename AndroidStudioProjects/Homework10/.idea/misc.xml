@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_category_all.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_category_beach.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_category_camping.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_category_party.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_group_17.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_product1.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_product4_background.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_product_description.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_product_image.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_product_price.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/drawable/ic_store_gallery_2.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/category.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/item.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/product.xml" value="0.22" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/secondactivity.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework10/app/src/main/res/layout/userinfo.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/drawable/ic_add_button.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/drawable/ic_add_user.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/drawable/ic_remove_user.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/drawable/ic_save_button.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/drawable/ic_shift_change.xml" value="0.1305" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/layout/secondactivity.xml" value="0.22" />
+        <entry key="..\:/Users/Davit/AndroidStudioProjects/Homework9/app/src/main/res/layout/userinfo.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
