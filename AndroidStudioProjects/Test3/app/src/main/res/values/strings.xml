@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test3</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="Address">Address</string>
+    <string name="Notification">Notification</string>
+    <string name="Payment">Payment</string>
+    <string name="Security">Security</string>
+    <string name="Language">Language</string>
+    <string name="Dark_Mode">Dark Mode</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="Help_Center">Help Center</string>
+    <string name="Invite_Friends">Invite Friends</string>
+    <string name="Logout">Logout</string>
+
+
+</resources>
